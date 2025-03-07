@@ -39,4 +39,10 @@
 //******************************************************************************
 void main (void)
 {
+    uint16_t record[3];
+    record = __dummy_sensor_read(); //TODO: in kernel.c
+    ts = __get_timestamp();         //TODO: in kernel.c
+    __ikv_put(ts, record);        //TODO: in kernel.c
+
+
 }
