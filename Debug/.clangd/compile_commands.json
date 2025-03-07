@@ -1,0 +1,222 @@
+[
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/adc10_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/adc12_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/aes.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/battbak.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/comp_b.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/crc.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/ctsd16.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/dac12_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/dma.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/eusci_a_spi.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/eusci_a_uart.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/eusci_b_i2c.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/eusci_b_spi.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/flashctl.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/gpio.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/lcd_b.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/lcd_c.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/ldopwr.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/mpy32.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/oa.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/pmap.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/pmm.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/ram.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/ref.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/rtc_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/rtc_b.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/rtc_c.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/sd24_b.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/sfr.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/sysctl.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/tec.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/timer_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/timer_b.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/timer_d.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/tlv.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/ucs.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/usci_a_spi.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/usci_a_uart.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/usci_b_i2c.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/usci_b_spi.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/wdt_a.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/main.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/comm/iKVS_I2C.c"
+   },
+   {
+      "directory" : "/Users/liusongran/workspace_ccstheia/iKVStore/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2002/ccs/ccs_base/msp430/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/comm\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx\" -I\"/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -I\"/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250\" -D__MSP430F5529__ -DDEPRECATED",
+      "file"      : "/Users/liusongran/workspace_ccstheia/iKVStore/peripherals/MPU9250/MPU9250.c"
+   }
+]
