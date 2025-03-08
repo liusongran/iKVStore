@@ -7,21 +7,27 @@ CMD_SRCS += \
 ../lnk_msp430f5529.cmd 
 
 C_SRCS += \
-../main.c 
+../main.c \
+../profile.c 
 
 C_DEPS += \
-./main.d 
+./main.d \
+./profile.d 
 
 OBJS += \
-./main.obj 
+./main.obj \
+./profile.obj 
 
 OBJS__QUOTED += \
-"main.obj" 
+"main.obj" \
+"profile.obj" 
 
 C_DEPS__QUOTED += \
-"main.d" 
+"main.d" \
+"profile.d" 
 
 C_SRCS__QUOTED += \
-"../main.c" 
+"../main.c" \
+"../profile.c" 
 
 

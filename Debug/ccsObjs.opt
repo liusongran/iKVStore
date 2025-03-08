@@ -1,4 +1,5 @@
 "./main.obj"
+"./profile.obj"
 "./comm/iKVS_I2C.obj"
 "./driverlib/MSP430F5xx_6xx/adc10_a.obj"
 "./driverlib/MSP430F5xx_6xx/adc12_a.obj"
@@ -41,6 +42,8 @@
 "./driverlib/MSP430F5xx_6xx/usci_b_i2c.obj"
 "./driverlib/MSP430F5xx_6xx/usci_b_spi.obj"
 "./driverlib/MSP430F5xx_6xx/wdt_a.obj"
+"./kernel/kernel.obj"
+"./kernel/mcu.obj"
 "./peripherals/MPU9250/MPU9250.obj"
 "../lnk_msp430f5529.cmd"
 -llibmath.a

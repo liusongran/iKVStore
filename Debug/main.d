@@ -61,6 +61,12 @@ main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx
 main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/lcd_b.h
 main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/flashctl.h
 main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/crc.h
+main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/kernel/mcu.h
+main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/driverlib.h
+main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/kernel/mcu.h
+main.obj: ../profile.h
+main.obj: /Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdio.h
+main.obj: /Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdarg.h
 
 ../main.c:
 
@@ -183,4 +189,16 @@ main.obj: /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx
 /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/flashctl.h:
 
 /Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/crc.h:
+
+/Users/liusongran/workspace_ccstheia/iKVStore/kernel/mcu.h:
+
+/Users/liusongran/workspace_ccstheia/iKVStore/driverlib/MSP430F5xx_6xx/driverlib.h:
+
+/Users/liusongran/workspace_ccstheia/iKVStore/kernel/mcu.h:
+
+../profile.h:
+
+/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdio.h:
+
+/Applications/ti/ccs2002/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/stdarg.h:
 

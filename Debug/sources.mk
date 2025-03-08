@@ -114,5 +114,6 @@ SUBDIRS := \
 . \
 comm \
 driverlib/MSP430F5xx_6xx \
+kernel \
 peripherals/MPU9250 \
 
